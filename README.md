@@ -1,1 +1,6 @@
-# mini-scripts
+# meipai-crawler
+
+分析并抓取美拍视频相关信息
+
+最后更新 【2016-8-05】
+
